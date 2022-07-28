@@ -9,6 +9,6 @@
 - Elemento 3
 - Elemento 4
 
-![Imagen de ejemplo](/MPaula/Downloads/img.jpg)
+![Imagen de ejemplo](/Downloads/img.jpg)
 
 
