@@ -39,7 +39,7 @@ m: * , h: 7, dom: * , mon: * ,dow: 0.
 
 En el editor se debe escribir así:
 
-* 7 * * 0  
+ - * 7 * * 0  
 
 4. **Estructurar el comando**
 
